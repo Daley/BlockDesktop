@@ -1,0 +1,10 @@
+
+    outer=outer||{};
+    var env={}
+    function setter(name,value){
+        env[name]=outer[name]||value;
+    }
+
+    //create start
+    __code__
+    //create end    

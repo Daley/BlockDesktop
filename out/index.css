@@ -1,0 +1,44 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin:0px; 
+    padding:0px;
+    overflow: scroll;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.app-container{
+    width:100%;
+    height: 100%;
+    /*border: 2px solid#ff0000;*/
+}
+
+.app-left{
+    /*width: 20%;*/
+    height: 100%;
+    min-width: 250px;
+    /*border: 2px solid#000;*/
+    float: left;
+}
+
+.app-right{
+    widows: 100%;
+    height: 100%;
+    /*border: 2px solid blue;*/
+}
+
+#blocklyDiv{
+    position: absolute;
+    width: 100%;
+    height: 100%
+}
+
+#blocklyArea{
+    width: 100%;
+    height: 100%
+}
+
+#toolbox{
+display: none
+}

@@ -1,0 +1,36 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "electron/electron.d.ts": {
+      "commit": "74b1c0a2c243f5c81b948470f5400596c562fd92"
+    },
+    "node/node.d.ts": {
+      "commit": "e2af6d0bd5dffabdb363e779c5ab7f47e6ff3423"
+    },
+    "material-ui/material-ui.d.ts": {
+      "commit": "74b1c0a2c243f5c81b948470f5400596c562fd92"
+    },
+    "react/react.d.ts": {
+      "commit": "74b1c0a2c243f5c81b948470f5400596c562fd92"
+    },
+    "react/react-dom.d.ts": {
+      "commit": "74b1c0a2c243f5c81b948470f5400596c562fd92"
+    },
+    "react-tap-event-plugin/react-tap-event-plugin.d.ts": {
+      "commit": "c3daad4d0547d301ce5dad25138216fa0a30d547"
+    },
+    "bunyan/bunyan.d.ts": {
+      "commit": "e2af6d0bd5dffabdb363e779c5ab7f47e6ff3423"
+    },
+    "restify/restify.d.ts": {
+      "commit": "e2af6d0bd5dffabdb363e779c5ab7f47e6ff3423"
+    },
+    "async/async.d.ts": {
+      "commit": "e2af6d0bd5dffabdb363e779c5ab7f47e6ff3423"
+    }
+  }
+}

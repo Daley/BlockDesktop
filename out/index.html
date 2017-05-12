@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>BlockDesktop</title>
+  <script src="./blockly/blockly_compressed.js"></script>
+  <script src="./blockly/blocks_compressed.js"></script>
+  <script src="./msg/js/en.js"></script>
+  <script src="./blockly/javascript_compressed.js"></script>
+  <script src="./blockly/batch.js"></script>
+  <script src="./async/interpreter.js"></script>
+  <script src="./async/acorn.js"></script>
+  <script src="./async/nativeHelpers.js"></script>
+  <script src="./async/asyncHelpers.js"></script>
+
+  <link rel="stylesheet" href="./index.css" />
+
+</head>
+
+<body>
+  <div class="app-container">
+    <div class="app-left"></div>
+    <div class="app-right">
+      <div id="blocklyArea"></div>
+    </div>
+  </div>
+  <div id="blocklyDiv"></div>
+  <div id="dialog"></div>
+  <script src="./entry.js"></script>
+</body>
+
+</html>

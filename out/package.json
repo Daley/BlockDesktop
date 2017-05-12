@@ -1,0 +1,18 @@
+{
+  "name": "BatchJob",
+  "description": "好玩",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "copy-dir": "^0.3.0",
+    "cp-file": "^4.1.1",
+    "http-api-client": "^0.1.8",
+    "material-ui": "^0.16.4",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "rmdir": "^1.2.0",
+    "zip-dir": "^1.0.2"
+  }
+}
